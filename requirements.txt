@@ -1,0 +1,12 @@
+# Core MCP Framework
+mcp[cli]>=1.25.0
+
+# Data Validation
+pydantic>=2.12.5
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Email Support (built-in with Python, but listing for clarity)
+# smtplib - included in Python standard library
+# email - included in Python standard library
